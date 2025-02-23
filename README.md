@@ -12,7 +12,7 @@
 
 - ML and AI
 
-- Fiction book about post-apocalypses and survival
+- Fiction books about post-apocalypses and survival
 
 - Cats Cats Cats :)
 ---
