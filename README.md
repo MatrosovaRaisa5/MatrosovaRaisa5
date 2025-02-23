@@ -7,12 +7,14 @@
 
 ---
 
-### :woman_technologist: About me 
-- I program in Python, C#, Kotlin.
+### :orange_heart: Like
+- Python, C#, Kotlin
 
-- I study ML and AI.
+- ML and AI
 
-- I like fiction book about post-apocalypses and survival.
+- Fiction book about post-apocalypses and survival
+
+- Cats Cats Cats :)
 ---
 
 ### :fire: My Stats 
