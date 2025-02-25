@@ -17,7 +17,7 @@
 - Cats Cats Cats :)
 ---
 
-### :fire: My Stats 
+### :fire: Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatrosovaRaisa5&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatrosovaRaisa5&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
