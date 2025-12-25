@@ -15,7 +15,3 @@
 - Fiction books about post-apocalypses and survival
 
 - Cats Cats Cats :)
----
-
-### :fire: Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatrosovaRaisa5&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
